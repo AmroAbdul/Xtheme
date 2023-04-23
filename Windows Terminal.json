@@ -1,0 +1,23 @@
+{
+    "background": "#0B0B0F",
+    "black": "#4B4B82",
+    "blue": "#0731F1",
+    "brightBlack": "#4B4B82",
+    "brightBlue": "#0731F1",
+    "brightCyan": "#00F0A7",
+    "brightGreen": "#00F51E",
+    "brightPurple": "#D301F0",
+    "brightRed": "#FF0700",
+    "brightWhite": "#CCBFFF",
+    "brightYellow": "#FF7100",
+    "cursorColor": "#CCBFFF",
+    "cyan": "#00F0A7",
+    "foreground": "#6B687A",
+    "green": "#00F51E",
+    "name": "Xtheme",
+    "purple": "#8704F1",
+    "red": "#FF0700",
+    "selectionBackground": "#5F5461",
+    "white": "#CCBFFF",
+    "yellow": "#FFDD00"
+}
